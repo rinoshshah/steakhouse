@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+#links{
+    color: #000000;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+
+}
+#header{
+    font-family: 'Oswald', sans-serif;
+}
+.firstimg{
+    position: relative;
+    width: 100%;
+    
+}
+.firstbutton{
+    position: absolute;
+    top: 75%;
+    width: 100%;
+    text-align: center;
+}
+.downarrow{
+    position: absolute;
+    top: 85%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.firstcaption{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+    /* font-size: 60px; */
+}
+.aboutdes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.belowabout{
+    padding-bottom: 150px;
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    
+}
+p.belowabout{
+    width: 60%;
+}
+p{
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+}
+/* .aboutimg{
+    width: 804px;
+    height: 804px;
+} */
+.booking{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+
+}
+.reserve{
+    padding-right: 8%;
+    padding-left: 8%;
+}
+.resheads{
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#label{
+    font-family: 'Oswald', sans-serif;
+    
+}
+option{
+    font-family: 'Oswald', sans-serif;
+
+}
+a.contact{
+    font-family: 'EB Garamond', serif;
+}
+.hrefclr{
+    color: #00be95;
+    font-family: 'EB Garamond', serif;
+}
+.menu{
+    /* padding-top: 10px; */
+    padding-bottom: 30px;
+}
+.menucards{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+p.card-text{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+}
+h5.card-title{
+    font-family: 'Oswald', sans-serif;
+}
+a.btn{
+    font-family: 'Oswald', sans-serif;
+
+}
+button.btn{
+    font-family: 'Oswald', sans-serif;
+}
+h5.footerh{
+    font-family: 'Oswald', sans-serif;
+}
+p.footerp{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+
+}
+.delivery{
+    
+    background-color: #999999;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 22px;
+}
+h5.app{
+    font-family: 'Oswald', sans-serif;
+
+}
+
+/* @media (max-width: 767px) {                  
+    .content-to-hide {
+       display: none;
+    }
+ } */
